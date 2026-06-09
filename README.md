@@ -1,4 +1,4 @@
-# Loan Default Risk Prediction 🏦📊
+# Loan Default Risk Prediction 
 
 ## Project Overview
 This project applies a Random Forest classifier to predict loan defaults using historical financial data. By identifying high-risk borrowers before approval, this model helps financial institutions minimize credit losses while balancing profitability and risk.
